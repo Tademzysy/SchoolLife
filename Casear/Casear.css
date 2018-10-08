@@ -1,0 +1,40 @@
+body{
+	background: url(images/background.jpg) no-repeat;
+	background-size: 100%;
+}
+
+div#content {
+	text-align:     center;
+	margin:		100px auto;
+	padding:		20px;
+	width:  		600px;
+	height:		400px;
+	border-radius: 	15px;
+}
+
+.text{
+	padding:		10px 7px;
+	width: 		200px;
+	border:		1px solid #c0c0c0;
+	height:		18px;
+	font:			12px arial;
+	margin:  		8px auto;
+	border-radius:	8px;
+	outline: 		none;
+}
+
+.button{
+	cursor: 		pointer;
+	width: 		80px;
+	height: 		30px;
+	font:			12px arial;
+	color:			white;
+	border:		1px solid #c0c0c0;
+	border-radius: 	8px;
+	background-color: #c0c0c0;
+	margin:			8px auto;
+	outline:		none;
+}
+
+input::-webkit-input-placeholder{text-align: center;} 
+

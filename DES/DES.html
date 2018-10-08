@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset= "utf-8">
+		<title>"李琛的密码学界面"</title>
+		<link rel="stylesheet" type="text/css" href="DES.css">
+	</head>
+
+	<body>
+		<div id= "content">
+			<input type="text" class="text" placeholder="明文" id="plaintextInput" ><br>
+			<input type="text" class="text" placeholder="输入7位任意字符密钥" id="keyInput" maxlength="7"><br>
+			<input type="button" class="button" value="加密"	id="buttonOne"><br>
+			<div id= "MessageArea"></div>
+			<input type="text" class="text" placeholder="密文" id="ciphertextInput"><br>
+			<input type="text" class="text" placeholder="输入7位任意字符密钥" id="key_oneInput" maxlength="7"><br>
+			<input type="button" class="button" value="解密"  id="buttonTwo">
+			<div id= "MessageAreaTwo"></div>
+		</div>
+
+		<script type="text/javascript" src="DES.js"></script>
+	</body>
+</html>

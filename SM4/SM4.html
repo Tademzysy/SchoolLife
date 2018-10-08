@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset= "utf-8">
+		<title>"李琛的密码学界面"</title>
+		<link rel="stylesheet" type="text/css" href="SM4.css">
+	</head>
+
+	<body>
+		<div id= "content">
+			<input type="text" class="text" placeholder="明文" id="plaintextInput" ><br>
+			<input type="text" class="text" placeholder="输入16位任意字符密钥" id="keyInput" maxlength="16"><br>
+			<input type="button" class="button" value="加密"	id="buttonOne"><br>
+			<div id= "MessageArea" class="messageArea"></div>
+			<input type="text" class="text" placeholder="密文" id="ciphertextInput"><br>
+			<input type="text" class="text" placeholder="输入16位任意字符密钥" id="key_oneInput" maxlength="16"><br>
+			<input type="button" class="button" value="解密"  id="buttonTwo">
+			<div id= "MessageAreaTwo" class="messageArea"></div>
+		</div>
+
+		<script type="text/javascript" src="SM4.js"></script>
+	</body>
+</html>
+

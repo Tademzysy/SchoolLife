@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa41443b-41fb-4e18-86da-c4c82d24fb7b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="function.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-151">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+                <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+                <element signature="n#!!block;n#T_transform#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SM4.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SM4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding>
+                <element signature="e#632#2985#0" expanded="false" />
+                <element signature="e#5419#5516#0" expanded="false" />
+                <element signature="e#5584#5711#0" expanded="false" />
+                <element signature="e#5773#5840#0" expanded="false" />
+                <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+                <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+                <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+                <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+                <element signature="n#!!block;n#xor#0" expanded="false" />
+                <element signature="n#!!block;n#T_transform#0" expanded="false" />
+                <element signature="e#7351#8987#0" expanded="false" />
+                <element signature="n#!!block;n#makeup#0" expanded="false" />
+                <element signature="n#!!block;n#transformChar#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SM4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SM4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0X</find>
+      <find>key</find>
+      <find>0x</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>bitFlows_two</replace>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SM4.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/function.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SM4.css" />
+        <option value="$PROJECT_DIR$/function.js" />
+        <option value="$PROJECT_DIR$/SM4.html" />
+        <option value="$PROJECT_DIR$/SM4.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SM4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SM4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="jsx.switch.disabled" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="function.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="function.js" working-dir="$PROJECT_DIR$" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.function.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa41443b-41fb-4e18-86da-c4c82d24fb7b" name="Default" comment="" />
+      <created>1524888097637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524888097637</updated>
+      <workItem from="1524888100546" duration="1216000" />
+      <workItem from="1524902712834" duration="30000" />
+      <workItem from="1524903944787" duration="1992000" />
+      <workItem from="1525231710048" duration="204000" />
+      <workItem from="1525232699469" duration="1331000" />
+      <workItem from="1525237821514" duration="10714000" />
+      <workItem from="1525308761528" duration="1630000" />
+      <workItem from="1525310608223" duration="3000" />
+      <workItem from="1525406483258" duration="127000" />
+      <workItem from="1526282081246" duration="2099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19346000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35630497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35075653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#632#2985#0" expanded="false" />
+            <element signature="e#5419#5516#0" expanded="false" />
+            <element signature="e#5584#5711#0" expanded="false" />
+            <element signature="e#5773#5840#0" expanded="false" />
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+            <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+            <element signature="n#!!block;n#xor#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+            <element signature="e#7351#8987#0" expanded="false" />
+            <element signature="n#!!block;n#makeup#0" expanded="false" />
+            <element signature="n#!!block;n#transformChar#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#632#2985#0" expanded="false" />
+            <element signature="e#5419#5516#0" expanded="false" />
+            <element signature="e#5584#5711#0" expanded="false" />
+            <element signature="e#5773#5840#0" expanded="false" />
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+            <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+            <element signature="n#!!block;n#xor#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+            <element signature="e#7351#8987#0" expanded="false" />
+            <element signature="n#!!block;n#makeup#0" expanded="false" />
+            <element signature="n#!!block;n#transformChar#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1616">
+          <caret line="215" column="37" lean-forward="true" selection-start-line="209" selection-start-column="0" selection-end-line="215" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#632#2985#0" expanded="false" />
+            <element signature="e#5419#5516#0" expanded="false" />
+            <element signature="e#5584#5711#0" expanded="false" />
+            <element signature="e#5773#5840#0" expanded="false" />
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+            <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+            <element signature="n#!!block;n#xor#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+            <element signature="e#7351#8987#0" expanded="false" />
+            <element signature="n#!!block;n#makeup#0" expanded="false" />
+            <element signature="n#!!block;n#transformChar#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#632#2985#0" expanded="false" />
+            <element signature="e#5419#5516#0" expanded="false" />
+            <element signature="e#5584#5711#0" expanded="false" />
+            <element signature="e#5773#5840#0" expanded="false" />
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+            <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+            <element signature="n#!!block;n#xor#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+            <element signature="e#7351#8987#0" expanded="false" />
+            <element signature="n#!!block;n#makeup#0" expanded="false" />
+            <element signature="n#!!block;n#transformChar#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1616">
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="61" lean-forward="true" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#632#2985#0" expanded="false" />
+            <element signature="e#5419#5516#0" expanded="false" />
+            <element signature="e#5584#5711#0" expanded="false" />
+            <element signature="e#5773#5840#0" expanded="false" />
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+            <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+            <element signature="n#!!block;n#xor#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+            <element signature="e#7351#8987#0" expanded="false" />
+            <element signature="n#!!block;n#makeup#0" expanded="false" />
+            <element signature="n#!!block;n#transformChar#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1264">
+          <caret line="79" column="61" lean-forward="false" selection-start-line="79" selection-start-column="61" selection-end-line="79" selection-end-column="61" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#632#2985#0" expanded="false" />
+            <element signature="e#5419#5516#0" expanded="false" />
+            <element signature="e#5584#5711#0" expanded="false" />
+            <element signature="e#5773#5840#0" expanded="false" />
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+            <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+            <element signature="n#!!block;n#xor#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+            <element signature="e#7351#8987#0" expanded="false" />
+            <element signature="n#!!block;n#makeup#0" expanded="false" />
+            <element signature="n#!!block;n#transformChar#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="95" column="62" lean-forward="false" selection-start-line="95" selection-start-column="62" selection-end-line="95" selection-end-column="62" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#632#2985#0" expanded="false" />
+            <element signature="e#5419#5516#0" expanded="false" />
+            <element signature="e#5584#5711#0" expanded="false" />
+            <element signature="e#5773#5840#0" expanded="false" />
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+            <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+            <element signature="n#!!block;n#xor#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+            <element signature="e#7351#8987#0" expanded="false" />
+            <element signature="n#!!block;n#makeup#0" expanded="false" />
+            <element signature="n#!!block;n#transformChar#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#632#2985#0" expanded="false" />
+            <element signature="e#5419#5516#0" expanded="false" />
+            <element signature="e#5584#5711#0" expanded="false" />
+            <element signature="e#5773#5840#0" expanded="false" />
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+            <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+            <element signature="n#!!block;n#xor#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+            <element signature="e#7351#8987#0" expanded="false" />
+            <element signature="n#!!block;n#makeup#0" expanded="false" />
+            <element signature="n#!!block;n#transformChar#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="14" lean-forward="false" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <element signature="e#632#2985#0" expanded="false" />
+            <element signature="e#5419#5516#0" expanded="false" />
+            <element signature="e#5584#5711#0" expanded="false" />
+            <element signature="e#5773#5840#0" expanded="false" />
+            <element signature="n#!!block;n#transform_bits#0" expanded="false" />
+            <element signature="n#!!block;n#trans_tow_to_sixteen#0" expanded="false" />
+            <element signature="n#!!block;n#trans_sixteen_to_two#0" expanded="false" />
+            <element signature="n#!!block;n#shiftLeft#0" expanded="false" />
+            <element signature="n#!!block;n#xor#0" expanded="false" />
+            <element signature="n#!!block;n#T_transform#0" expanded="false" />
+            <element signature="e#7351#8987#0" expanded="false" />
+            <element signature="n#!!block;n#makeup#0" expanded="false" />
+            <element signature="n#!!block;n#transformChar#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
